@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ae53cc7b-ba38-410a-86b5-57f1d368fdf1}">
+		<property name="assetPath">
+			<value>Ship Sounds/Ship_Crash.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.3333333333333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d27256af-ae8d-45f3-b9a4-cd6af997bd48}</destination>
+		</relationship>
+	</object>
+</objects>

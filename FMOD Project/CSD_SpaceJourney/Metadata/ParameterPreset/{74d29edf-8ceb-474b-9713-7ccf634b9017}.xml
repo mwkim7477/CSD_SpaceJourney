@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{74d29edf-8ceb-474b-9713-7ccf634b9017}">
+		<property name="name">
+			<value>Thrust</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5fdb2348-2b08-4e71-8a0b-bfd8e29d4a19}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{61d5466b-813f-4af4-a9fa-7517c15e69c2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{61d5466b-813f-4af4-a9fa-7517c15e69c2}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

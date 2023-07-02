@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{f608501c-261b-4b2a-8df7-8ce6192cacfc}">
+		<property name="name">
+			<value>TurnH</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5fdb2348-2b08-4e71-8a0b-bfd8e29d4a19}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{20dbe676-4f07-4971-950d-7b2c4350bad0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{20dbe676-4f07-4971-950d-7b2c4350bad0}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>50</value>
+		</property>
+		<property name="seekSpeed">
+			<value>80</value>
+		</property>
+	</object>
+</objects>
